@@ -13,6 +13,7 @@
 - [Australian Water School Youtube Channel](https://www.youtube.com/@AustralianWaterSchool)
 - [HydroGeo Centre](https://hydrogeocenter.com/)
 - [USGS modflow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model)
+- [USGS data](https://waterdata.usgs.gov/)
 - [QGIS](https://qgis.org/)
 ---
 
